@@ -22,13 +22,6 @@ with user accounts so every reader has their own personal library.
 
 ---
 
-## 🖥️ Screenshots
-
-> Login Screen · Dashboard · Add Book · PDF Viewer
-
-*Screenshots coming soon*
-
----
 
 ## 🚀 Features
 
