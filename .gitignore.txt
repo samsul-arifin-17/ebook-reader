@@ -1,0 +1,14 @@
+# NetBeans build files
+build/
+dist/
+nbproject/private/
+nbbuild/
+
+# Mac files
+.DS_Store
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
