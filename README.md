@@ -182,7 +182,6 @@ built a **Student Grade Calculator** — check it out here:
 
 **Samsul Arifin**
 
-BSc in Computer Science and Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-samsul--arifin--17-181717?style=for-the-badge&logo=github)](https://github.com/samsul-arifin-17)
 [![Email](https://img.shields.io/badge/Email-smarifin17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smarifin17@gmail.com)
